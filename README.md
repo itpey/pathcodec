@@ -6,7 +6,7 @@
 [GoDoc-Url]: https://pkg.go.dev/github.com/itpey/pathcodec
 [GoDoc-Image]: https://pkg.go.dev/badge/github.com/itpey/pathcodec.svg
 [ReportCard-Url]: https://goreportcard.com/report/github.com/itpey/pathcodec
-[ReportCard-Image]: https://goreportcard.com/badge/github.com/itpey/pathcodec
+[ReportCard-Image]: https://goreportcard.com/badge/github.com/itpey/pathcodec?style=flat
 [License-Url]: https://github.com/itpey/pathcodec/blob/main/LICENSE
 [License-Image]: https://img.shields.io/github/license/itpey/pathcodec
 
