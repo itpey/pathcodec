@@ -1,10 +1,14 @@
 # pathcodec
 
-![Go Version](https://img.shields.io/badge/Go-1.24%2B-blue)
-![Go Reference](https://pkg.go.dev/badge/github.com/itpey/pathcodec.svg)
-![ReportCard](https://goreportcard.com/badge/github.com/itpey/pathcodec)
-![Coverage](https://coveralls.io/repos/github/itpey/pathcodec/badge.svg?branch=main)
-![License](https://img.shields.io/github/license/itpey/pathcodec)
+[![Go Version][GoVer-Image]][GoDoc-Url] [![License MIT][License-Image]][License-Url] [![GoDoc][GoDoc-Image]][GoDoc-Url] [![Go Report Card][ReportCard-Image]][ReportCard-Url]
+
+[GoVer-Image]: https://img.shields.io/badge/Go-1.24%2B-blue
+[GoDoc-Url]: https://pkg.go.dev/github.com/itpey/pathcodec
+[GoDoc-Image]: https://pkg.go.dev/badge/github.com/itpey/pathcodec.svg
+[ReportCard-Url]: https://goreportcard.com/report/github.com/itpey/pathcodec
+[ReportCard-Image]: https://goreportcard.com/badge/github.com/itpey/pathcodec
+[License-Url]: https://github.com/itpey/pathcodec/blob/main/LICENSE
+[License-Image]: https://img.shields.io/github/license/itpey/pathcodec
 
 A lightweight Go package for compressing and decompressing
 [Telegram vector thumbnails](https://core.telegram.org/api/files#vector-thumbnails).
